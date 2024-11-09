@@ -79,6 +79,8 @@ y por ultimo al igual que en otros pasos para que se nos apliquen los cambios, d
 
 ###### Nota: Los archivos borrados no se pueden recuperar, asique asegurese bien de que no los va a necesitar nunca más, puede descargarlos para no perderlos, como se muestra al final del documento.
 
+![8p](https://github.com/user-attachments/assets/2009043f-989d-4e8f-9bf0-a4e51bae6640)
+
 ## ¿Como añado nuevas imagenes?
 
 El proceso para añadir imagenes, también es sencillo, lo unico que hará falta será ir a la carpeta / directorio donde deseemos añadir una nueva imagen o video.
@@ -87,12 +89,13 @@ El proceso para añadir imagenes, también es sencillo, lo unico que hará falta
 
 Ahora haremos click sobre el botón de **"Add file"** ubicado arriba a la derecha.
 
-![8p](https://github.com/user-attachments/assets/2009043f-989d-4e8f-9bf0-a4e51bae6640)
+![9p](https://github.com/user-attachments/assets/90d81fe2-0b95-4276-9ec2-310c9ba8393e)
 
 Seleccionamos **"Upload files"** para subir un nuevo archivo de nuestro equipo.
 
-![9p](https://github.com/user-attachments/assets/90d81fe2-0b95-4276-9ec2-310c9ba8393e)
 ![10p](https://github.com/user-attachments/assets/cbfaf2c0-8847-4358-99bd-b8ccd4c54f61)
+
+![11p](https://github.com/user-attachments/assets/9cd03ee9-3a2c-4c75-beb3-5b0d6fdcd568)
 
 ###### NOTA: Como detalle adicional los proyectores llevan juegos preestablecidos a los que se puede jugar, estos no se pueden cambiar, con la idea de que los alumnos puedan interactuar con estos entre clases o en el recreo. 😀👍 De nada, si no los quieres se pueden desactivar desde "AJUSTES" 🥲.
 
