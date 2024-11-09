@@ -25,8 +25,11 @@ OTROS (Solo ".png"): Este directorio te permitirá mostrar otros contenidos que 
 #### NOTA: Las imagenes no tienen porque ser obligatoriamente de 460px x 410px, es solo una recomendación para que se vean lo mejor posible, el programa esta preparado para ajustar las imagenes independientemente la resolución que tengan.
 
 VIDEOS (Solo ".mp4"): Este directorio permite una vez que se ha terminado todas las noticias de "ACTUALIDAD", "EVENTOS" y "OTROS" se reproduzcan algunos videos intercalados con el directorio de "IMAGENES", es decir que se mostrará un video de este directorio seguido de una imagen del directorio "IMAGENES". El programá esta preparado para mostrar un máximo de 2 videos cada vez que se termine la pantalla de reloj, esto se hace para que la interacción de los alumnos con los proyectores, sea mucho más fluida y no sea repetitiva y aburrida, pero no te preocupes, puedes subir tantos videos como quieras lo unico que se iran reproduciendo de 2 en 2.
+¡Es importante que los videos de este directorio no sean muy largos, recomendable máx 3 min / video ya que sino cuesta bastante tiempo realizar el ciclo y se hace pesado / aburrido, mirar el directorio de "LONG-VIDEOS" si se quiere subir videos más largos!
 
 IMAGENES (Solo ".png"): Como se ha mencionado enteriormente en este directorio podrás subir las imagenes que quieres que aparezcan intercaladas con los videos despues de la pantalla de reloj, podrás subir tantas imagenes como quieras, pero en este caso se reproduciran de 3 en 3.
+
+LONG-VIDEOS (Solo ".mp4"): Este ultimo directorio sirve para almacenar videos muy largos 
 
 ![1p](https://github.com/user-attachments/assets/b68729ae-f644-46a3-8f56-e8b7e9314a9f)
 ![2p](https://github.com/user-attachments/assets/009c1f87-dc13-40d0-a6fd-0513cc6aa6bf)
