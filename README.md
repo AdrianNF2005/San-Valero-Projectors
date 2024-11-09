@@ -20,7 +20,7 @@ No deben mezclar imágenes y videos, las carpetas / directorios de "ACTUALIDAD",
 ### Para añadir o modificar los archivos existentes, asi como cambiar los números de orden o borrar archivos seguir los siguientes pasos:
 (Los pasos mostrados son un ejemplo con la imagen "1.png" de "ACTUALIDAD", los mismos pasos son aplicables para cualquier otro directorio y archivo)
 
-## ¿Como cambiar el orden de mis imágenes / Videos?
+## ¿Cómo cambiar el orden de mis imágenes / Videos?
 Para cambiar el número del orden en el que se van a mostrar nuestras imágenes o videos lo primero que debemos hacer es ir a la carpeta / directorio al que tengamos nuestra imagen o video guardado, las únicas carpetas / directorios a los que puedes acceder son:
 
 - **ACTUALIDAD** (Solo *".png"*): En este directorio podrás poner diferentes noticias de actualidad como las que se muestran en -> https://www.sanvalero.es/listado-noticias <- Estas aparecerán en el recuadro pequeño de abajo a la derecha cuando se muestre la pantalla del reloj, la resolución ideal de las imágenes ".png" son **460px x 410px**.
@@ -63,7 +63,7 @@ Cuando terminemos de cambiar el número para que se guarden los cambios, haremos
 
 ![K5](https://github.com/user-attachments/assets/5afec405-bd71-4643-8185-69d0864b8b02)
 
-## ¿Como elimino las imágenes o videos que ya no quiero?
+## ¿Cómo elimino las imágenes o videos que ya no quiero?
 El proceso para eliminar contenido que ya no se desea es relativamente similar al anterior:
 
 Para empezar, deberemos entrar en el directorio en el que vayamos a borrar la imagen o video:
@@ -90,7 +90,7 @@ y por último al igual que en otros pasos para que se nos apliquen los cambios, 
 
 ![nonSRERGDaFme](https://github.com/user-attachments/assets/496dd359-4c59-47b7-b9dc-0c428ba21874)
 
-## ¿Como añado nuevas imagenes?
+## ¿Cómo añado nuevas imagenes?
 
 El proceso para añadir imágenes, también es sencillo, lo único que hará falta será ir a la carpeta / directorio donde deseemos añadir una nueva imagen o video.
 
@@ -114,7 +114,7 @@ Finalmente, para guardar los cambios realizados debe hacer clic en **"Commit cha
 
 ![K7](https://github.com/user-attachments/assets/209d91e3-8f1e-453b-8d70-8b84c8a69da5)  ![K8](https://github.com/user-attachments/assets/edaebac6-e39e-462a-ba4f-1199987dd0a9)
 
-## ¿Como guardo las imágenes del repositorio en mi equipo?
+## ¿Cómo guardo las imágenes del repositorio en mi equipo?
 
 Para poder guardar imágenes del repositorio en su equipo hay dos formas de hacerlo:
 
