@@ -9,8 +9,6 @@ Es importante que las ordenemos, es decir que la primera imagen o video que quer
 
 No deben mezclar imagenes y videos, las carpetas / directorios de "ACTUALIDAD", "EVENTOS" y "OTROS" solo admiten los formatos mencionados anteriormente para fotos, mientras que "VIDEOS" permite los formatos de videos mencionados. (No funciona si se mezclan)
 
-![image](https://github.com/user-attachments/assets/cf8f417f-7da2-48a2-979e-4bb4cc72c56d)
-
 ### Para añadrir o modificar los archivos existentes, asi como cambiar los numeros de orden o borrar archivos seguir los siguientes pasos:
 (Los pasos mostrados son un ejemlos con la imagen "1.png" de "ACTUALIDAD", los mismos pasos son aplicables para cualquier otro directorio y archivo)
 
@@ -27,9 +25,14 @@ Para cambiar el numero del orden en el que se van a mostrar nuestras imagenes o 
 ![9p](https://github.com/user-attachments/assets/90d81fe2-0b95-4276-9ec2-310c9ba8393e)
 ![10p](https://github.com/user-attachments/assets/cbfaf2c0-8847-4358-99bd-b8ccd4c54f61)
 
+#### Desata tu imaginación y emieza a crear contenido para el resto de estudiantes👍
+![image](https://github.com/user-attachments/assets/c110ffb6-2c38-40c8-9157-9951f388d170)
+
+
 ### ¡¡¡ ES MUY IMPORTANTE NO DISTRIBUIR EL ACCESO LIBRE AL CONTENIDO DE ESTE REPOSITORIO YA QUE EN EL CASO DE OTORGAR EL ACCESO PRIVILEGIADO A ALGUIEN SIN AUTORIZACIÓN SE PODRÍA DIFUNDIR ESTE ACCESO Y PERDER EL CONTROL PERMANENTE DE LOS PROYECTORES YA QUE CUALQUIERA PODRÁ SUIBIR, MODIFICAR O BORRAR LOS ARCHIVOS EXISTENTES, POR ELLO NO ES RECOMENDABLE QUE SE COMPARTA SIQUIERA EL LINK DE ESTE REPOSITORIO Y MUCHO MENOS OTORGAR ACCESO DE ADMINISTRADOR A OTRO USUARIO !!!
 
 [Usuarios admin el día de la creación de este repositorio: mvara@svalero.com (Merche / Secretaria) y adriannunezfernandez2005@gmail.com (Adrián Núñez Fernández)]
 
 ### AdrianNF
 
+![image](https://github.com/user-attachments/assets/716f2b90-d841-457f-a08c-34a5d8d1fec7)
