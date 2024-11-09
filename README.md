@@ -11,7 +11,7 @@ No deben mezclar imagenes y videos, las carpetas / directorios de "ACTUALIDAD", 
 
 Para modificar los archivos existentes, asi como cambiar los nombres o borrar archivos
 
-![image](https://github.com/user-attachments/assets/de899268-6ded-4445-9ee1-fec1888fcb99)
+![image](https://github.com/user-attachments/assets/6eeb8f4a-097d-412b-ae47-2cb5bf851855)
 
 ### AdrianNF
 
