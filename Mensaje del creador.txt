@@ -1,7 +1,10 @@
 Merits to the creator of the project: Adrián Núñez Fernández
 Méritos al creador del proyecto: Adrián Núñez Fernández
 
-Ojalá que este proyecto persista por múltiples años y no solo sirva como inspiración a los alumnos sucesores para realizar proyectos de envergadura similares, sino que también este pequeño grano de arena sirva para apoyar el interés de nuevos jóvenes hacia la ciencia y la tecnología.
+Ojalá que este proyecto persista por múltiples años y no solo sirva como inspiración
+a los alumnos sucesores para realizar proyectos de envergadura similares, sino que
+también este pequeño grano de arena sirva para apoyar el interés de nuevos jóvenes
+hacia la ciencia y la tecnología.
 Gracias.
 
 ANF Duck...
