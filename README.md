@@ -91,13 +91,23 @@ Ahora haremos click sobre el botón de **"Add file"** ubicado arriba a la derech
 
 ![9p](https://github.com/user-attachments/assets/90d81fe2-0b95-4276-9ec2-310c9ba8393e)
 
-Seleccionamos **"Upload files"** para subir un nuevo archivo de nuestro equipo.
+A continuación seleccionamos **"Upload files"** para subir un nuevo archivo de nuestro equipo.
 
 ![10p](https://github.com/user-attachments/assets/cbfaf2c0-8847-4358-99bd-b8ccd4c54f61)
 
+Por ultimo en gran recuadro que aparece en mitad de la pantalla podrá arrastrar tantas imagenes como desee subir, o bien puede hacer click en **"choose your files"** para seleccionarlos manualmente desde el gestor de archivos.
+
+(RECOMENDACIÓN): Si ha cambiado los nombres de los archivos a la enumeración de orden indicada previamente, se ahorrará el hecho de tener que renombrar todos los archivos que suba posteriormente uno por uno.
+
+Finalmente para guardar los cambios realizados debe hacer click en **"Commit changes"**
+
 ![11p](https://github.com/user-attachments/assets/9cd03ee9-3a2c-4c75-beb3-5b0d6fdcd568)
 
-###### NOTA: Como detalle adicional los proyectores llevan juegos preestablecidos a los que se puede jugar, estos no se pueden cambiar, con la idea de que los alumnos puedan interactuar con estos entre clases o en el recreo. 😀👍 De nada, si no los quieres se pueden desactivar desde "AJUSTES" 🥲.
+Ya estaría todo, ya sabe como manejar a la perfección las funciones basicas del programa de [GITHUB](https://github.com/)
+
+(RECOMENDACIÓN): Si le gusta el modo oscuro también lo puede cambiar desde los ajustes de GITHUB para una menor fatiga visual, he aqui un enlace de como hacerlo: [Modo oscuro](https://docs.github.com/es/desktop/configuring-and-customizing-github-desktop/setting-a-theme-for-github-desktop)
+
+##### NOTA: Como detalle adicional los proyectores llevan juegos preestablecidos a los que se puede jugar, estos no se pueden cambiar, con la idea de que los alumnos puedan interactuar con estos entre clases o en el recreo. 😀👍 De nada, si no los quieres se pueden desactivar desde "AJUSTES" 🥲.
 
 #### Desata tu imaginación y emieza a crear contenido para el resto de estudiantes👍
 ![images (1)-cutout](https://github.com/user-attachments/assets/b51239a1-cfc0-4f48-ae77-48778136e301)
