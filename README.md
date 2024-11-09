@@ -61,6 +61,7 @@ Cuando terminemos de cambiar el número para que se guarden los cambios, haremos
 
 ![5p](https://github.com/user-attachments/assets/02ac8009-9303-4aa8-808c-fb45c479f039)
 
+![K5](https://github.com/user-attachments/assets/5afec405-bd71-4643-8185-69d0864b8b02)
 
 ## ¿Como elimino las imágenes o videos que ya no quiero?
 El proceso para eliminar contenido que ya no se desea es relativamente similar al anterior:
