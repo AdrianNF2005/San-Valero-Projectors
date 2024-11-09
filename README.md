@@ -112,7 +112,7 @@ Finalmente, para guardar los cambios realizados debe hacer clic en **"Commit cha
 
 ![11p](https://github.com/user-attachments/assets/9cd03ee9-3a2c-4c75-beb3-5b0d6fdcd568)
 
-![K7](https://github.com/user-attachments/assets/4a7019ff-84da-408a-ad0b-48a8a5244c2d)
+![K7](https://github.com/user-attachments/assets/209d91e3-8f1e-453b-8d70-8b84c8a69da5)  ![K8](https://github.com/user-attachments/assets/edaebac6-e39e-462a-ba4f-1199987dd0a9)
 
 ## ¿Como guardo las imágenes del repositorio en mi equipo?
 
@@ -141,7 +141,7 @@ Finalmente haz clic en el icono de descarga que aparece arriba a la derecha y ya
 
 ![14p](https://github.com/user-attachments/assets/0a54d33a-a9cd-47c2-8dfb-51f9835d0283)
 
-![K8](https://github.com/user-attachments/assets/27da647e-441c-4881-9fca-fb3b0e469e95)
+![K9](https://github.com/user-attachments/assets/27da647e-441c-4881-9fca-fb3b0e469e95)
 
 Ya estaría todo, ya sabe cómo manejar a la perfección las funciones básicas del programa de [GITHUB](https://github.com/)
 
@@ -152,7 +152,7 @@ Ya estaría todo, ya sabe cómo manejar a la perfección las funciones básicas 
 ##### NOTA: Como detalle adicional los proyectores llevan juegos preestablecidos a los que se puede jugar, estos no se pueden cambiar, con la idea de que los alumnos puedan interactuar con estos entre clases o en el recreo. 😀👍 De nada, si no los quieres se pueden desactivar desde "AJUSTES" 🥲.
 
 #### Desata tu imaginación y empieza a crear contenido para el resto de los estudiantes👍
-![images (1)-cutout](https://github.com/user-attachments/assets/b51239a1-cfc0-4f48-ae77-48778136e301)
+![K10](https://github.com/user-attachments/assets/b51239a1-cfc0-4f48-ae77-48778136e301)
 
 ### ¡¡¡ ES MUY IMPORTANTE NO DISTRIBUIR EL ACCESO LIBRE AL CONTENIDO DE ESTE REPOSITORIO YA QUE EN EL CASO DE OTORGAR EL ACCESO PRIVILEGIADO A ALGUIEN SIN AUTORIZACIÓN SE PODRÍA DIFUNDIR ESTE ACCESO Y PERDER EL CONTROL PERMANENTE DE LOS PROYECTORES YA QUE CUALQUIERA PODRÁ SUIBIR, MODIFICAR O BORRAR LOS ARCHIVOS EXISTENTES, POR ELLO NO ES RECOMENDABLE QUE SE COMPARTA SIQUIERA EL LINK DE ESTE REPOSITORIO Y MUCHO MENOS OTORGAR ACCESO DE ADMINISTRADOR A OTRO USUARIO !!!
 
@@ -160,4 +160,4 @@ Ya estaría todo, ya sabe cómo manejar a la perfección las funciones básicas 
 
 ### AdrianNF 🌈
 
-![image](https://github.com/user-attachments/assets/716f2b90-d841-457f-a08c-34a5d8d1fec7)
+![K11](https://github.com/user-attachments/assets/716f2b90-d841-457f-a08c-34a5d8d1fec7)
