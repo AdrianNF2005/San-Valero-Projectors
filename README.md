@@ -9,9 +9,23 @@ Es importante que las ordenemos, es decir que la primera imagen o video que quer
 
 No deben mezclar imagenes y videos, las carpetas / directorios de "ACTUALIDAD", "EVENTOS" y "OTROS" solo admiten los formatos mencionados anteriormente para fotos, mientras que "VIDEOS" permite los formatos de videos mencionados. (No funciona si se mezclan)
 
-Para modificar los archivos existentes, asi como cambiar los nombres o borrar archivos
+### Para añadrir o modificar los archivos existentes, asi como cambiar los numeros de orden o borrar archivos seguir los siguientes pasos:
+(Los pasos mostrados son un ejemlos con la imagen "1.png" de "ACTUALIDAD", los mismos pasos son aplicables para cualquier otro directorio y archivo)
 
-![image](https://github.com/user-attachments/assets/6eeb8f4a-097d-412b-ae47-2cb5bf851855)
+## ¿Como cambiar el orden de mis imagenes / Videos?
+Para cambiar el numero del orden en el que se van a mostrar nuestras imagenes o videos 
+![1p](https://github.com/user-attachments/assets/b68729ae-f644-46a3-8f56-e8b7e9314a9f)
+![2p](https://github.com/user-attachments/assets/009c1f87-dc13-40d0-a6fd-0513cc6aa6bf)
+![3p](https://github.com/user-attachments/assets/fd015ff9-14ae-457a-afaf-7161c010b0b3)
+![4p](https://github.com/user-attachments/assets/62333494-9f68-4915-84df-21fa361c6083)
+![5p](https://github.com/user-attachments/assets/02ac8009-9303-4aa8-808c-fb45c479f039)
+![6p](https://github.com/user-attachments/assets/ef97bb9b-f6c3-4e65-a3df-98c21d15a628)
+![7p](https://github.com/user-attachments/assets/b3643863-6f10-498b-bc7f-78bfc29e6b1c)
+![8p](https://github.com/user-attachments/assets/2009043f-989d-4e8f-9bf0-a4e51bae6640)
+![9p](https://github.com/user-attachments/assets/90d81fe2-0b95-4276-9ec2-310c9ba8393e)
+![10p](https://github.com/user-attachments/assets/cbfaf2c0-8847-4358-99bd-b8ccd4c54f61)
+
+### ¡¡¡ ES MUY IMPORTANTE NO DISTRIBUIR EL ACCESO LIBRE AL CONTENIDO DE ESTE REPOSITORIO YA QUE EN EL CASO DE OTORGAR EL ACCESO PRIVILEGIADO A ALGUIEN SIN AUTORIZACIÓN SE PODRÍA DIFUNDIR ESTE ACCESO Y PERDER EL CONTROL PERMANENTE DE LOS PROYECTORES YA QUE CUALQUIERA PODRÁ SUIBIR, MODIFICAR O BORRAR LOS ARCHIVOS EXISTENTES, POR ELLO NO ES RECOMENDABLE QUE SE COMPARTA SIQUIERA EL LINK DE ESTE REPOSITORIO Y MUCHO MENOS OTORGAR ACCESO DE ADMINISTRADOR A OTRO USUARIO !!!
 
 ### AdrianNF
 
