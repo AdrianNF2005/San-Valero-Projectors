@@ -3,7 +3,7 @@
 ### ***(NO PASES DE ESTAS INSTRUCCIONES)***
 Hola querido usuario, si no sabes cómo utilizar el sistema de proyección distribuido por el centro no te preocupes, he aqui las instrucciones necesarias para poder mostrar todos los archivos deseados, es importante remarcar que el programa actualmente está siendo actualizado por lo que igual no se puede tener un acceso completo de todas las funciones que se deseen usar, para más información consultar a Adrián Núñez Fernández: adriannunezfernandez2005@gmail.com / +34 637 42 24 62
 
-![game](https://github.com/user-attachments/assets/fe129c52-5faa-494c-9f5e-786ee8ada28d)
+![game](https://github.com/user-attachments/assets/fe129c52-5faa-494c-9f5e-786ee8ada28d)  ![images (1)-cutffout](https://github.com/user-attachments/assets/ffd6a4cb-d5b6-4283-8142-a624b51f04bc)
 
 ## Pasos para la actualización de imágenes y videos:
 Para poder subir nuevas imágenes / videos y cambiar los "Posts" de ACTUALIDAD, EVENTOS y OTROS simplemente debemos acceder a cada una de las carpetas / directorios de este mismo repositorio y cambiar las imágenes por las que queramos. (NOTA: las imágenes deben ser ".png" para que no pierdan calidad y que las reconozca el sistema)
