@@ -9,11 +9,14 @@ Hola querido usuario, si no sabes cómo utilizar el sistema de proyección distr
 Para poder subir nuevas imágenes / videos y cambiar los "Posts" de ACTUALIDAD, EVENTOS y OTROS simplemente debemos acceder a cada una de las carpetas / directorios de este mismo repositorio y cambiar las imágenes por las que queramos. (NOTA: las imágenes deben ser ".png" para que no pierdan calidad y que las reconozca el sistema)
 (Para los videos es recomendable que no tarden mucho tiempo ya, que hasta que no terminen no va a mostrar nuevamente la pantalla de Reloj-Clima-Posts, deben ser ".mp4")
 
+![Bird](https://github.com/user-attachments/assets/92886470-38a9-4e33-acaf-5f979be59ec9)
+
 Es importante que las ordenemos, es decir que la primera imagen o video que queremos que se muestre debe aparecer como "1.png", la siguiente "2.png", "3.png" asi sucesivamente, el programa está preparado para hacer un barrido y si trata de ejecutar la siguiente imagen y no esta da por terminado el listado de imágenes, por ello es importante que no haya ningún número faltante en el listado ya que sino no se mostrarán todas las imágenes. (Lo mismo para videos "1.mp4", "2.mp4", "3.mp4"...)
 
 No deben mezclar imágenes y videos, las carpetas / directorios de "ACTUALIDAD", "EVENTOS" y "OTROS" solo admiten los formatos mencionados anteriormente para fotos, mientras que "VIDEOS" permite los formatos de videos mencionados. (No funciona si se mezclan)
 
-![K2](https://github.com/user-attachments/assets/11eb82b1-362e-469e-8b78-6095bc28db6d) ![K3](https://github.com/user-attachments/assets/ffd6a4cb-d5b6-4283-8142-a624b51f04bc)
+![K2](https://github.com/user-attachments/assets/11eb82b1-362e-469e-8b78-6095bc28db6d) ![K3](https://github.com/user-attachments/assets/9808c3cb-b9a2-4e4f-b625-84b53e31460d)
+
 
 ### Para añadir o modificar los archivos existentes, asi como cambiar los números de orden o borrar archivos seguir los siguientes pasos:
 (Los pasos mostrados son un ejemplo con la imagen "1.png" de "ACTUALIDAD", los mismos pasos son aplicables para cualquier otro directorio y archivo)
