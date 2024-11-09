@@ -29,7 +29,10 @@ VIDEOS (Solo ".mp4"): Este directorio permite una vez que se ha terminado todas 
 
 IMAGENES (Solo ".png"): Como se ha mencionado enteriormente en este directorio podrás subir las imagenes que quieres que aparezcan intercaladas con los videos despues de la pantalla de reloj, podrás subir tantas imagenes como quieras, pero en este caso se reproduciran de 3 en 3.
 
-LONG-VIDEOS (Solo ".mp4"): Este ultimo directorio sirve para almacenar videos muy largos 
+LONG-VIDEOS (Solo ".mp4"): Este ultimo directorio sirve para almacenar videos muy largos que se muestran como fondo de pantalla interactivo que se muestra cuando no hay alumnos proximos.
+(Recomendación que sean videos bastante largos).
+
+AJUSTES (Solo modificar el ""): En este directorio no 
 
 ![1p](https://github.com/user-attachments/assets/b68729ae-f644-46a3-8f56-e8b7e9314a9f)
 ![2p](https://github.com/user-attachments/assets/009c1f87-dc13-40d0-a6fd-0513cc6aa6bf)
