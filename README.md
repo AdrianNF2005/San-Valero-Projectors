@@ -88,6 +88,8 @@ y por último al igual que en otros pasos para que se nos apliquen los cambios, 
 
 ![8p](https://github.com/user-attachments/assets/2009043f-989d-4e8f-9bf0-a4e51bae6640)
 
+![K6](https://github.com/user-attachments/assets/88a64fd3-e786-430a-9f98-f1138b7c6f8a)
+
 ## ¿Como añado nuevas imagenes?
 
 El proceso para añadir imágenes, también es sencillo, lo único que hará falta será ir a la carpeta / directorio donde deseemos añadir una nueva imagen o video.
@@ -109,6 +111,8 @@ Por último, en gran recuadro que aparece en mitad de la pantalla podrá arrastr
 Finalmente, para guardar los cambios realizados debe hacer clic en **"Commit changes"**
 
 ![11p](https://github.com/user-attachments/assets/9cd03ee9-3a2c-4c75-beb3-5b0d6fdcd568)
+
+![K7](https://github.com/user-attachments/assets/4a7019ff-84da-408a-ad0b-48a8a5244c2d)
 
 ## ¿Como guardo las imágenes del repositorio en mi equipo?
 
