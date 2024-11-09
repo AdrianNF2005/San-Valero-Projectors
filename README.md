@@ -141,6 +141,7 @@ Finalmente haz clic en el icono de descarga que aparece arriba a la derecha y ya
 
 ![14p](https://github.com/user-attachments/assets/0a54d33a-a9cd-47c2-8dfb-51f9835d0283)
 
+![K8](https://github.com/user-attachments/assets/27da647e-441c-4881-9fca-fb3b0e469e95)
 
 Ya estaría todo, ya sabe cómo manejar a la perfección las funciones básicas del programa de [GITHUB](https://github.com/)
 
