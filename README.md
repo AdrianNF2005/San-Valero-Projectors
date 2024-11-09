@@ -15,7 +15,7 @@ Es importante que las ordenemos, es decir que la primera imagen o video que quer
 
 No deben mezclar imágenes y videos, las carpetas / directorios de "ACTUALIDAD", "EVENTOS" y "OTROS" solo admiten los formatos mencionados anteriormente para fotos, mientras que "VIDEOS" permite los formatos de videos mencionados. (No funciona si se mezclan)
 
-![K2](https://github.com/user-attachments/assets/11eb82b1-362e-469e-8b78-6095bc28db6d)  ![noname](https://github.com/user-attachments/assets/188740e1-3bd7-4566-a8bd-95f3150fab60)
+![K2](https://github.com/user-attachments/assets/11eb82b1-362e-469e-8b78-6095bc28db6d)      ![noname](https://github.com/user-attachments/assets/188740e1-3bd7-4566-a8bd-95f3150fab60)
 
 
 
