@@ -1,4 +1,5 @@
 # Proyectores de San Valero
+## IMPORTANTE LEER TODO ANTES DE USAR, (NO PASES DE ESTAS INSTRUCCIONES)
 Hola querido usuario, si no sabes como utilizar el sistema de proyección distribuido por el centro no te preocupes, he aqui las instrucciones necesarias para poder mostrar todos los archivos deseados, es importante remarcar que el programa actualmente esta siendo actualizado por lo que igual no se puede tener un acceso completo de todas las funciones que se deseen usar, para más información consultar a Adrián Núñez Fernández: adriannunezfernandez2005@gmail.com / +34 637 42 24 62
 
 ## Pasos para la actualización de imagenes y videos:
@@ -13,7 +14,20 @@ No deben mezclar imagenes y videos, las carpetas / directorios de "ACTUALIDAD", 
 (Los pasos mostrados son un ejemlos con la imagen "1.png" de "ACTUALIDAD", los mismos pasos son aplicables para cualquier otro directorio y archivo)
 
 ## ¿Como cambiar el orden de mis imagenes / Videos?
-Para cambiar el numero del orden en el que se van a mostrar nuestras imagenes o videos 
+Para cambiar el numero del orden en el que se van a mostrar nuestras imagenes o videos lo primero que debemos hacer es ir a la carpeta / directorio al que tengamos nuestra imagen o video guardado, las unicas carpetas / directorios al los que puedes acceder son:
+
+ACTUALIDAD (Solo ".png"): En este directorio podras poner diferentes noticias de actualidad como las que se muestran en -> https://www.sanvalero.es/listado-noticias <- Estas apaereceran en el recuadro pequeño de abajo a la derecha cuando se muestre la pantalla del reloj, la resolucion ideal de las imagenes ".png" son 460px x 410px.
+
+EVENTOS (Solo ".png"): En este directorio al igual que el anterior podras poner diferentes eventos del centro como los que se muestran en -> https://www.sanvalero.es/listado-eventos <- Estas apaereceran en el recuadro pequeño de abajo a la derecha despues de que se muestren las noticias del apartado anterior, la resolucion ideal de las imagenes ".png" son 460px x 410px.
+
+OTROS (Solo ".png"): Este directorio te permitirá mostrar otros contenidos que no te interese que aparezcan marcados como "ACTUALIDAD" o "EVENTOS", ideal para añadir curiosidades u otros elementos que no sean noticias. También aparecerán en el pequeño recuadro de abajo a la derecha cuando finalicecn los apartados anteriores, la resolucion ideal de las imagenes ".png" son 460px x 410px.
+
+#### NOTA: Las imagenes no tienen porque ser obligatoriamente de 460px x 410px, es solo una recomendación para que se vean lo mejor posible, el programa esta preparado para ajustar las imagenes independientemente la resolución que tengan.
+
+VIDEOS (Solo ".mp4"): Este directorio permite una vez que se ha terminado todas las noticias de "ACTUALIDAD", "EVENTOS" y "OTROS" se reproduzcan algunos videos intercalados con el directorio de "IMAGENES", es decir que se mostrará un video de este directorio seguido de una imagen del directorio "IMAGENES". El programá esta preparado para mostrar un máximo de 2 videos cada vez que se termine la pantalla de reloj, esto se hace para que la interacción de los alumnos con los proyectores, sea mucho más fluida y no sea repetitiva y aburrida, pero no te preocupes, puedes subir tantos videos como quieras lo unico que se iran reproduciendo de 2 en 2.
+
+IMAGENES (Solo ".png"): Como se ha mencionado enteriormente en este directorio podrás subir las imagenes que quieres que aparezcan intercaladas con los videos despues de la pantalla de reloj, podrás subir tantas imagenes como quieras, pero en este caso se reproduciran de 3 en 3.
+
 ![1p](https://github.com/user-attachments/assets/b68729ae-f644-46a3-8f56-e8b7e9314a9f)
 ![2p](https://github.com/user-attachments/assets/009c1f87-dc13-40d0-a6fd-0513cc6aa6bf)
 ![3p](https://github.com/user-attachments/assets/fd015ff9-14ae-457a-afaf-7161c010b0b3)
