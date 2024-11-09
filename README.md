@@ -9,7 +9,9 @@ Es importante que las ordenemos, es decir que la primera imagen o video que quer
 
 No deben mezclar imagenes y videos, las carpetas / directorios de "ACTUALIDAD", "EVENTOS" y "OTROS" solo admiten los formatos mencionados anteriormente para fotos, mientras que "VIDEOS" permite los formatos de videos mencionados. (No funciona si se mezclan)
 
-Para modificar los archivos existentes, asi como cambiar los nombres o borrar archivos 
+Para modificar los archivos existentes, asi como cambiar los nombres o borrar archivos
+
+![image](https://github.com/user-attachments/assets/de899268-6ded-4445-9ee1-fec1888fcb99)
 
 ### AdrianNF
 
