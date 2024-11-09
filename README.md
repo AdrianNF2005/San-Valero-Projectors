@@ -103,9 +103,39 @@ Finalmente para guardar los cambios realizados debe hacer click en **"Commit cha
 
 ![11p](https://github.com/user-attachments/assets/9cd03ee9-3a2c-4c75-beb3-5b0d6fdcd568)
 
+## ¿Como gruardo las imagenes del repositorio en mi equipo?
+
+Para poder guardar imagenes del repositorio en su equipo hay dos formas de hacerlo:
+
+- Quiero descargar todas las imagenes y videos:
+
+Para descargar todo el contenido del repositorio, simplement vaya a la pagina principal del repositorio (***"main"***) y desde alli le debería aparecer u boton verde arriba a la izquierda con el texto de **"Code"**, haga click ahi y en el menu desplegable haga click en **"download ZIP"**, esto le descargará un archivo **".zip"** el cual contendrá todos los archivos del repositorio completo, muy util cuando se quiere hacer una copia de seguridad.
+
+###### Si no le aparece el boton verde de **"Code"** puede que sea porque tiene la ventana minimizada, ha ampliado la página o bien porque no esta en el ***"main"***, compruebalo.
+
+![12p](https://github.com/user-attachments/assets/11d220be-0cbc-4ec5-97ea-a177cb039d70)
+![13p](https://github.com/user-attachments/assets/f7288296-497c-4685-a229-5a345c62a5ae)
+
+- Solo me interesa un archivo especifico:
+
+Si unicamente quiere descargar un archivo en concreto, dirigase a la carpeta / directorio en el que se encuentre la imagen que desea descargar.
+
+![1p](https://github.com/user-attachments/assets/b68729ae-f644-46a3-8f56-e8b7e9314a9f)
+
+Ahora seleccione la imagen o video que desea descargar.
+
+![2p](https://github.com/user-attachments/assets/009c1f87-dc13-40d0-a6fd-0513cc6aa6bf)
+
+Finalmente haz click en el icono de descarga que aparece arriba a la derecha y ya tendrás descargada tu imagen / video.
+
+![14p](https://github.com/user-attachments/assets/0a54d33a-a9cd-47c2-8dfb-51f9835d0283)
+
+
 Ya estaría todo, ya sabe como manejar a la perfección las funciones basicas del programa de [GITHUB](https://github.com/)
 
 (RECOMENDACIÓN): Si le gusta el modo oscuro también lo puede cambiar desde los ajustes de GITHUB para una menor fatiga visual, he aqui un enlace de como hacerlo: [Modo oscuro](https://docs.github.com/es/desktop/configuring-and-customizing-github-desktop/setting-a-theme-for-github-desktop)
+
+###### Si hay alguna otra cosa que no sepa o que le apetezca saber si se puede hacer o no con el programa, funciones desconocidas, u otros, contactarme al contacto que he puesto al inicio o buscarlo en internet / ChatGPT / Copilot / Gemini que lo saben todo. 🌍
 
 ##### NOTA: Como detalle adicional los proyectores llevan juegos preestablecidos a los que se puede jugar, estos no se pueden cambiar, con la idea de que los alumnos puedan interactuar con estos entre clases o en el recreo. 😀👍 De nada, si no los quieres se pueden desactivar desde "AJUSTES" 🥲.
 
