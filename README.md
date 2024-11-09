@@ -88,7 +88,7 @@ y por último al igual que en otros pasos para que se nos apliquen los cambios, 
 
 ![8p](https://github.com/user-attachments/assets/2009043f-989d-4e8f-9bf0-a4e51bae6640)
 
-![K6](https://github.com/user-attachments/assets/88a64fd3-e786-430a-9f98-f1138b7c6f8a)
+![nonSRERGDaFme](https://github.com/user-attachments/assets/496dd359-4c59-47b7-b9dc-0c428ba21874)
 
 ## ¿Como añado nuevas imagenes?
 
