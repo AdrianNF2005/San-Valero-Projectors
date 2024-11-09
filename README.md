@@ -16,23 +16,23 @@ No deben mezclar imagenes y videos, las carpetas / directorios de "ACTUALIDAD", 
 ## ¿Como cambiar el orden de mis imagenes / Videos?
 Para cambiar el numero del orden en el que se van a mostrar nuestras imagenes o videos lo primero que debemos hacer es ir a la carpeta / directorio al que tengamos nuestra imagen o video guardado, las unicas carpetas / directorios al los que puedes acceder son:
 
-ACTUALIDAD (Solo ".png"): En este directorio podras poner diferentes noticias de actualidad como las que se muestran en -> https://www.sanvalero.es/listado-noticias <- Estas apaereceran en el recuadro pequeño de abajo a la derecha cuando se muestre la pantalla del reloj, la resolucion ideal de las imagenes ".png" son 460px x 410px.
+- **ACTUALIDAD** (Solo ".png"): En este directorio podras poner diferentes noticias de actualidad como las que se muestran en -> https://www.sanvalero.es/listado-noticias <- Estas apaereceran en el recuadro pequeño de abajo a la derecha cuando se muestre la pantalla del reloj, la resolucion ideal de las imagenes ".png" son 460px x 410px.
 
-EVENTOS (Solo ".png"): En este directorio al igual que el anterior podras poner diferentes eventos del centro como los que se muestran en -> https://www.sanvalero.es/listado-eventos <- Estas apaereceran en el recuadro pequeño de abajo a la derecha despues de que se muestren las noticias del apartado anterior, la resolucion ideal de las imagenes ".png" son 460px x 410px.
+- **EVENTOS** (Solo ".png"): En este directorio al igual que el anterior podras poner diferentes eventos del centro como los que se muestran en -> https://www.sanvalero.es/listado-eventos <- Estas apaereceran en el recuadro pequeño de abajo a la derecha despues de que se muestren las noticias del apartado anterior, la resolucion ideal de las imagenes ".png" son 460px x 410px.
 
-OTROS (Solo ".png"): Este directorio te permitirá mostrar otros contenidos que no te interese que aparezcan marcados como "ACTUALIDAD" o "EVENTOS", ideal para añadir curiosidades u otros elementos que no sean noticias. También aparecerán en el pequeño recuadro de abajo a la derecha cuando finalicecn los apartados anteriores, la resolucion ideal de las imagenes ".png" son 460px x 410px.
+- **OTROS** (Solo ".png"): Este directorio te permitirá mostrar otros contenidos que no te interese que aparezcan marcados como "ACTUALIDAD" o "EVENTOS", ideal para añadir curiosidades u otros elementos que no sean noticias. También aparecerán en el pequeño recuadro de abajo a la derecha cuando finalicecn los apartados anteriores, la resolucion ideal de las imagenes ".png" son 460px x 410px.
 
 #### NOTA: Las imagenes no tienen porque ser obligatoriamente de 460px x 410px, es solo una recomendación para que se vean lo mejor posible, el programa esta preparado para ajustar las imagenes independientemente la resolución que tengan.
 
-VIDEOS (Solo ".mp4"): Este directorio permite una vez que se ha terminado todas las noticias de "ACTUALIDAD", "EVENTOS" y "OTROS" se reproduzcan algunos videos intercalados con el directorio de "IMAGENES", es decir que se mostrará un video de este directorio seguido de una imagen del directorio "IMAGENES". El programá esta preparado para mostrar un máximo de 2 videos cada vez que se termine la pantalla de reloj, esto se hace para que la interacción de los alumnos con los proyectores, sea mucho más fluida y no sea repetitiva y aburrida, pero no te preocupes, puedes subir tantos videos como quieras lo unico que se iran reproduciendo de 2 en 2.
+- **VIDEOS** (Solo ".mp4"): Este directorio permite una vez que se ha terminado todas las noticias de "ACTUALIDAD", "EVENTOS" y "OTROS" se reproduzcan algunos videos intercalados con el directorio de "IMAGENES", es decir que se mostrará un video de este directorio seguido de una imagen del directorio "IMAGENES". El programá esta preparado para mostrar un máximo de 2 videos cada vez que se termine la pantalla de reloj, esto se hace para que la interacción de los alumnos con los proyectores, sea mucho más fluida y no sea repetitiva y aburrida, pero no te preocupes, puedes subir tantos videos como quieras lo unico que se iran reproduciendo de 2 en 2.
 ¡Es importante que los videos de este directorio no sean muy largos, recomendable máx 3 min / video ya que sino cuesta bastante tiempo realizar el ciclo y se hace pesado / aburrido, mirar el directorio de "LONG-VIDEOS" si se quiere subir videos más largos!
 
-IMAGENES (Solo ".png"): Como se ha mencionado enteriormente en este directorio podrás subir las imagenes que quieres que aparezcan intercaladas con los videos despues de la pantalla de reloj, podrás subir tantas imagenes como quieras, pero en este caso se reproduciran de 3 en 3.
+- **IMAGENES** (Solo ".png"): Como se ha mencionado enteriormente en este directorio podrás subir las imagenes que quieres que aparezcan intercaladas con los videos despues de la pantalla de reloj, podrás subir tantas imagenes como quieras, pero en este caso se reproduciran de 3 en 3.
 
-LONG-VIDEOS (Solo ".mp4"): Este ultimo directorio sirve para almacenar videos muy largos que se muestran como fondo de pantalla interactivo que se muestra cuando no hay alumnos proximos.
+- **LONG-VIDEOS** (Solo ".mp4"): Este ultimo directorio sirve para almacenar videos muy largos que se muestran como fondo de pantalla interactivo que se muestra cuando no hay alumnos proximos.
 (Recomendación que sean videos bastante largos).
 
-AJUSTES (Solo modificar el ""): En este directorio no 
+- **AJUSTES** (Solo modificar el archivo "Configuracion.txt"): En este directorio podrás configurar todo lo que se mustra dentro del mismo archivo, hechale un vistazo, te recomendamos que dejes la configuración por defecto que se muestra, aqui puedes elegir, si se muestran los videos, imagenes, Posts, los videos largos, o si se puede o no jugar a los minijuegos del proyector, entre otros muchos ajustes.
 
 ![1p](https://github.com/user-attachments/assets/b68729ae-f644-46a3-8f56-e8b7e9314a9f)
 ![2p](https://github.com/user-attachments/assets/009c1f87-dc13-40d0-a6fd-0513cc6aa6bf)
@@ -45,15 +45,15 @@ AJUSTES (Solo modificar el ""): En este directorio no
 ![9p](https://github.com/user-attachments/assets/90d81fe2-0b95-4276-9ec2-310c9ba8393e)
 ![10p](https://github.com/user-attachments/assets/cbfaf2c0-8847-4358-99bd-b8ccd4c54f61)
 
+###### NOTA: Como detalle adicional los proyectores llevan juegos preestablecidos a los que se puede jugar, estos no se pueden cambiar, con la idea de que los alumnos puedan interactuar con estos entre clases o en el recreo. 😀👍 De nada, si no los quieres se pueden desactivar desde "AJUSTES" 🥲.
+
 #### Desata tu imaginación y emieza a crear contenido para el resto de estudiantes👍
 ![images (1)-cutout](https://github.com/user-attachments/assets/b51239a1-cfc0-4f48-ae77-48778136e301)
-
-
 
 ### ¡¡¡ ES MUY IMPORTANTE NO DISTRIBUIR EL ACCESO LIBRE AL CONTENIDO DE ESTE REPOSITORIO YA QUE EN EL CASO DE OTORGAR EL ACCESO PRIVILEGIADO A ALGUIEN SIN AUTORIZACIÓN SE PODRÍA DIFUNDIR ESTE ACCESO Y PERDER EL CONTROL PERMANENTE DE LOS PROYECTORES YA QUE CUALQUIERA PODRÁ SUIBIR, MODIFICAR O BORRAR LOS ARCHIVOS EXISTENTES, POR ELLO NO ES RECOMENDABLE QUE SE COMPARTA SIQUIERA EL LINK DE ESTE REPOSITORIO Y MUCHO MENOS OTORGAR ACCESO DE ADMINISTRADOR A OTRO USUARIO !!!
 
 [Usuarios admin el día de la creación de este repositorio: mvara@svalero.com (Merche / Secretaria) y adriannunezfernandez2005@gmail.com (Adrián Núñez Fernández)]
 
-### AdrianNF
+### AdrianNF 🌈
 
 ![image](https://github.com/user-attachments/assets/716f2b90-d841-457f-a08c-34a5d8d1fec7)
