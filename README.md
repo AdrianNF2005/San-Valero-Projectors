@@ -9,6 +9,8 @@ Es importante que las ordenemos, es decir que la primera imagen o video que quer
 
 No deben mezclar imagenes y videos, las carpetas / directorios de "ACTUALIDAD", "EVENTOS" y "OTROS" solo admiten los formatos mencionados anteriormente para fotos, mientras que "VIDEOS" permite los formatos de videos mencionados. (No funciona si se mezclan)
 
+![image](https://github.com/user-attachments/assets/cf8f417f-7da2-48a2-979e-4bb4cc72c56d)
+
 ### Para añadrir o modificar los archivos existentes, asi como cambiar los numeros de orden o borrar archivos seguir los siguientes pasos:
 (Los pasos mostrados son un ejemlos con la imagen "1.png" de "ACTUALIDAD", los mismos pasos son aplicables para cualquier otro directorio y archivo)
 
