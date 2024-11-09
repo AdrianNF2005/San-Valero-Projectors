@@ -3,7 +3,7 @@
 ### ***(NO PASES DE ESTAS INSTRUCCIONES)***
 Hola querido usuario, si no sabes cómo utilizar el sistema de proyección distribuido por el centro no te preocupes, he aqui las instrucciones necesarias para poder mostrar todos los archivos deseados, es importante remarcar que el programa actualmente está siendo actualizado por lo que igual no se puede tener un acceso completo de todas las funciones que se deseen usar, para más información consultar a Adrián Núñez Fernández: adriannunezfernandez2005@gmail.com / +34 637 42 24 62
 
-![game](https://github.com/user-attachments/assets/fe129c52-5faa-494c-9f5e-786ee8ada28d)  ![images (1)-cutffout](https://github.com/user-attachments/assets/ffd6a4cb-d5b6-4283-8142-a624b51f04bc)
+![K1](https://github.com/user-attachments/assets/fe129c52-5faa-494c-9f5e-786ee8ada28d)
 
 ## Pasos para la actualización de imágenes y videos:
 Para poder subir nuevas imágenes / videos y cambiar los "Posts" de ACTUALIDAD, EVENTOS y OTROS simplemente debemos acceder a cada una de las carpetas / directorios de este mismo repositorio y cambiar las imágenes por las que queramos. (NOTA: las imágenes deben ser ".png" para que no pierdan calidad y que las reconozca el sistema)
@@ -13,7 +13,7 @@ Es importante que las ordenemos, es decir que la primera imagen o video que quer
 
 No deben mezclar imágenes y videos, las carpetas / directorios de "ACTUALIDAD", "EVENTOS" y "OTROS" solo admiten los formatos mencionados anteriormente para fotos, mientras que "VIDEOS" permite los formatos de videos mencionados. (No funciona si se mezclan)
 
-![images-cutout](https://github.com/user-attachments/assets/11eb82b1-362e-469e-8b78-6095bc28db6d)
+![K2](https://github.com/user-attachments/assets/11eb82b1-362e-469e-8b78-6095bc28db6d) ![K3](https://github.com/user-attachments/assets/ffd6a4cb-d5b6-4283-8142-a624b51f04bc)
 
 ### Para añadir o modificar los archivos existentes, asi como cambiar los números de orden o borrar archivos seguir los siguientes pasos:
 (Los pasos mostrados son un ejemplo con la imagen "1.png" de "ACTUALIDAD", los mismos pasos son aplicables para cualquier otro directorio y archivo)
