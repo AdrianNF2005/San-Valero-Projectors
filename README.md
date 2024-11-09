@@ -15,7 +15,8 @@ Es importante que las ordenemos, es decir que la primera imagen o video que quer
 
 No deben mezclar imágenes y videos, las carpetas / directorios de "ACTUALIDAD", "EVENTOS" y "OTROS" solo admiten los formatos mencionados anteriormente para fotos, mientras que "VIDEOS" permite los formatos de videos mencionados. (No funciona si se mezclan)
 
-![K2](https://github.com/user-attachments/assets/11eb82b1-362e-469e-8b78-6095bc28db6d) ![K3](https://github.com/user-attachments/assets/9808c3cb-b9a2-4e4f-b625-84b53e31460d)
+![K2](https://github.com/user-attachments/assets/11eb82b1-362e-469e-8b78-6095bc28db6d)  ![noname](https://github.com/user-attachments/assets/188740e1-3bd7-4566-a8bd-95f3150fab60)
+
 
 
 ### Para añadir o modificar los archivos existentes, asi como cambiar los números de orden o borrar archivos seguir los siguientes pasos:
