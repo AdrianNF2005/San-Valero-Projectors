@@ -26,7 +26,8 @@ Para cambiar el numero del orden en el que se van a mostrar nuestras imagenes o 
 ![10p](https://github.com/user-attachments/assets/cbfaf2c0-8847-4358-99bd-b8ccd4c54f61)
 
 #### Desata tu imaginación y emieza a crear contenido para el resto de estudiantes👍
-![image](https://github.com/user-attachments/assets/c110ffb6-2c38-40c8-9157-9951f388d170)
+![images (1)-cutout](https://github.com/user-attachments/assets/b51239a1-cfc0-4f48-ae77-48778136e301)
+
 
 
 ### ¡¡¡ ES MUY IMPORTANTE NO DISTRIBUIR EL ACCESO LIBRE AL CONTENIDO DE ESTE REPOSITORIO YA QUE EN EL CASO DE OTORGAR EL ACCESO PRIVILEGIADO A ALGUIEN SIN AUTORIZACIÓN SE PODRÍA DIFUNDIR ESTE ACCESO Y PERDER EL CONTROL PERMANENTE DE LOS PROYECTORES YA QUE CUALQUIERA PODRÁ SUIBIR, MODIFICAR O BORRAR LOS ARCHIVOS EXISTENTES, POR ELLO NO ES RECOMENDABLE QUE SE COMPARTA SIQUIERA EL LINK DE ESTE REPOSITORIO Y MUCHO MENOS OTORGAR ACCESO DE ADMINISTRADOR A OTRO USUARIO !!!
