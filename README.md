@@ -38,6 +38,7 @@ Para cambiar el número del orden en el que se van a mostrar nuestras imágenes 
 
 - **LONG-VIDEOS** (Solo *".mp4"*): Este último directorio sirve para almacenar videos muy largos que se muestran como fondo de pantalla interactivo que se muestra cuando no hay alumnos próximos.
 (Recomendación que sean videos bastante largos).
+Como GITHUB tiene una limitación máxima para subir archivos de más de 25MB deberá segmentarlo en varias partes, para ello exite una herramienta bastante práctica que se llama [BandiCut](https://www.bandicam.com/bandicut-video-cutter/ing/), el siguiente video de [YouTube](https://www.youtube.com/watch?v=PY7lDdOEclU) explica como usarla.
 
 - **AJUSTES** (Solo modificar el archivo *"Configuracion.txt"*): En este directorio podrás configurar todo lo que se muestra dentro del mismo archivo, échale un vistazo, te recomendamos que dejes la configuración por defecto que se muestra, aqui puedes elegir, si se muestran los videos, imágenes, Posts, los videos largos, o si se puede o no jugar a los minijuegos del proyector, entre otros muchos ajustes.
 
@@ -88,7 +89,7 @@ y por último al igual que en otros pasos para que se nos apliquen los cambios, 
 
 ![8p](https://github.com/user-attachments/assets/2009043f-989d-4e8f-9bf0-a4e51bae6640)
 
-![nonSRERGDaFme](https://github.com/user-attachments/assets/496dd359-4c59-47b7-b9dc-0c428ba21874)
+![K6](https://github.com/user-attachments/assets/496dd359-4c59-47b7-b9dc-0c428ba21874)
 
 ## ¿Cómo añado nuevas imagenes?
 
@@ -113,7 +114,7 @@ Finalmente, para guardar los cambios realizados debe hacer clic en **"Commit cha
 ![11p](https://github.com/user-attachments/assets/9cd03ee9-3a2c-4c75-beb3-5b0d6fdcd568)
 
 ![K7](https://github.com/user-attachments/assets/3ae32eb4-3909-4855-8b7c-356c9e149b08)
-  ![K8](https://github.com/user-attachments/assets/edaebac6-e39e-462a-ba4f-1199987dd0a9)
+![K8](https://github.com/user-attachments/assets/edaebac6-e39e-462a-ba4f-1199987dd0a9)
 
 ## ¿Cómo guardo las imágenes del repositorio en mi equipo?
 
