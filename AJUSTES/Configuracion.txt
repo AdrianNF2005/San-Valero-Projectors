@@ -20,5 +20,5 @@ Reproducir Videos largos (Los videos del directorio "LONG-VIDEOS")
 Ejecutar Minijuegos (Los minijuegos se reproducen cuando los alumnos se ponen debajo del proyector)
 [1]
 
-Cualquier duda preguntar a AdrianNF.
+Cualquier duda preguntar a AdrianNF.   :D
 
