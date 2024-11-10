@@ -1,4 +1,5 @@
-# 🛸 Proyectores de San Valero 😀
+# 🛸 Proyectores de San Valero 😀  ![Logo San Valero](https://github.com/user-attachments/assets/0fa590f0-0c11-4f67-8312-c8f9bd169ca7)
+
 ### IMPORTANTE LEER TODO ANTES DE USAR
 ### ***(NO PASES DE ESTAS INSTRUCCIONES)***
 Hola querido usuario, si no sabes cómo utilizar el sistema de proyección distribuido por el centro no te preocupes, he aqui las instrucciones necesarias para poder mostrar todos los archivos deseados, es importante remarcar que el programa actualmente está siendo actualizado por lo que igual no se puede tener un acceso completo de todas las funciones que se deseen usar, para más información consultar a Adrián Núñez Fernández: adriannunezfernandez2005@gmail.com / +34 637 42 24 62
