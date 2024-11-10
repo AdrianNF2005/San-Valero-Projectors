@@ -1,1 +1,22 @@
+Aquí se encuentran todas las posibles configuraciónes, habilita o desabilita lo que quieras simplemente cambiando los 1 y 0. (Se recomienda dejar este archivo por defecto)
+[ 1 => ACTIVADO | 0 => DESACTIVADO ]
+
+(NOTA: No se debe modificar la estructura de este archivo ni siquiera añadiendo espacios o cambiando la posición del texto)
+
+Mostrar Posts (Se incluye "ACTUALIDAD", "EVENTOS" y "OTROS")
+[1]
+
+Mostrar Videos (Los videos del directorio "VIDEOS")
+[1]
+
+Mostrar Imagenes (Los videos del directorio "IMAGENES")
+[1]
+
+Mostrar Videos largos (Los videos del directorio "LONG-VIDEOS")
+[1]
+
+Ejecutar Minijuegos para alumnos (Los minijuegos que se reproducen cuando los alumnos se ponen debajo del proyector)
+[1]
+
+Cualquier duda preguntar a AdrianNF.
 
