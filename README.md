@@ -112,7 +112,8 @@ Finalmente, para guardar los cambios realizados debe hacer clic en **"Commit cha
 
 ![11p](https://github.com/user-attachments/assets/9cd03ee9-3a2c-4c75-beb3-5b0d6fdcd568)
 
-![K7](https://github.com/user-attachments/assets/209d91e3-8f1e-453b-8d70-8b84c8a69da5)  ![K8](https://github.com/user-attachments/assets/edaebac6-e39e-462a-ba4f-1199987dd0a9)
+![K7](https://github.com/user-attachments/assets/3ae32eb4-3909-4855-8b7c-356c9e149b08)
+  ![K8](https://github.com/user-attachments/assets/edaebac6-e39e-462a-ba4f-1199987dd0a9)
 
 ## ¿Cómo guardo las imágenes del repositorio en mi equipo?
 
@@ -149,10 +150,12 @@ Ya estaría todo, ya sabe cómo manejar a la perfección las funciones básicas 
 
 ###### Si hay alguna otra cosa que no sepa o que le apetezca saber si se puede hacer o no con el programa, funciones desconocidas, u otros, contactarme al contacto que he puesto al inicio o buscarlo en internet / ChatGPT / Copilot / Gemini que lo saben todo. 🌍
 
+![K10](https://github.com/user-attachments/assets/d82508fd-8c3a-45e1-81d2-93207a6719f9)
+
 ##### NOTA: Como detalle adicional los proyectores llevan juegos preestablecidos a los que se puede jugar, estos no se pueden cambiar, con la idea de que los alumnos puedan interactuar con estos entre clases o en el recreo. 😀👍 De nada, si no los quieres se pueden desactivar desde "AJUSTES" 🥲.
 
 #### Desata tu imaginación y empieza a crear contenido para el resto de los estudiantes👍
-![K10](https://github.com/user-attachments/assets/b51239a1-cfc0-4f48-ae77-48778136e301)
+![K11](https://github.com/user-attachments/assets/b51239a1-cfc0-4f48-ae77-48778136e301)
 
 ### ¡¡¡ ES MUY IMPORTANTE NO DISTRIBUIR EL ACCESO LIBRE AL CONTENIDO DE ESTE REPOSITORIO YA QUE EN EL CASO DE OTORGAR EL ACCESO PRIVILEGIADO A ALGUIEN SIN AUTORIZACIÓN SE PODRÍA DIFUNDIR ESTE ACCESO Y PERDER EL CONTROL PERMANENTE DE LOS PROYECTORES YA QUE CUALQUIERA PODRÁ SUIBIR, MODIFICAR O BORRAR LOS ARCHIVOS EXISTENTES, POR ELLO NO ES RECOMENDABLE QUE SE COMPARTA SIQUIERA EL LINK DE ESTE REPOSITORIO Y MUCHO MENOS OTORGAR ACCESO DE ADMINISTRADOR A OTRO USUARIO !!!
 
@@ -160,4 +163,4 @@ Ya estaría todo, ya sabe cómo manejar a la perfección las funciones básicas 
 
 ### AdrianNF 🌈
 
-![K11](https://github.com/user-attachments/assets/716f2b90-d841-457f-a08c-34a5d8d1fec7)
+![K12](https://github.com/user-attachments/assets/716f2b90-d841-457f-a08c-34a5d8d1fec7)
