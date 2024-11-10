@@ -8,16 +8,16 @@ siquiera añadiendo espacios o cambiando la posición del texto)
 Mostrar Posts (Se incluye "ACTUALIDAD", "EVENTOS" y "OTROS")
 [1]
 
-Mostrar Videos (Los videos del directorio "VIDEOS")
+Reproducir Videos (Los videos del directorio "VIDEOS")
 [1]
 
 Mostrar Imagenes (Los videos del directorio "IMAGENES")
 [1]
 
-Mostrar Videos largos (Los videos del directorio "LONG-VIDEOS")
+Reproducir Videos largos (Los videos del directorio "LONG-VIDEOS")
 [1]
 
-Ejecutar Minijuegos para alumnos (Los minijuegos se reproducen cuando los alumnos se ponen debajo del proyector)
+Ejecutar Minijuegos (Los minijuegos se reproducen cuando los alumnos se ponen debajo del proyector)
 [1]
 
 Cualquier duda preguntar a AdrianNF.
