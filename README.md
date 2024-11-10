@@ -1,7 +1,7 @@
 # ![Logo San Valero](https://github.com/user-attachments/assets/9236da70-3d3f-4528-b7b1-21dd941f1cee) 🛸 Proyectores de San Valero 😀 ![Logo San Valero](https://github.com/user-attachments/assets/9236da70-3d3f-4528-b7b1-21dd941f1cee)
 ### IMPORTANTE LEER TODO ANTES DE USAR
 ### ***(NO PASES DE ESTAS INSTRUCCIONES)***
-Hola querido usuario, si no sabes cómo utilizar el sistema de proyección distribuido por el centro no te preocupes, he aqui las instrucciones necesarias para poder mostrar todos los archivos deseados, es importante remarcar que el programa actualmente está siendo actualizado por lo que igual no se puede tener un acceso completo de todas las funciones que se deseen usar, para más información consultar a Adrián Núñez Fernández: adriannunezfernandez2005@gmail.com / +34 637 42 24 62
+Hola querido usuario, si no sabes cómo utilizar el sistema de proyección distribuido por el centro no te preocupes, he aqui las instrucciones necesarias para poder mostrar todos los archivos deseados, es importante remarcar que el programa actualmente está siendo actualizado por lo que igual no se puede tener un acceso completo de todas las funciones que se deseen usar, para más información consultar a Adrián Núñez Fernández: adriannunezfernandez2005@gmail.com / **+34 637 42 24 62**
 
 ![K1](https://github.com/user-attachments/assets/11eb82b1-362e-469e-8b78-6095bc28db6d) ![K2](https://github.com/user-attachments/assets/188740e1-3bd7-4566-a8bd-95f3150fab60) ![K3](https://github.com/user-attachments/assets/b211582b-3097-4d8f-9bf3-033b184f3f0d)
 
