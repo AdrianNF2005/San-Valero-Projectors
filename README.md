@@ -39,7 +39,7 @@ Para cambiar el número del orden en el que se van a mostrar nuestras imágenes 
 - **LONG-VIDEOS** (Solo *".mp4"*): Este último directorio sirve para almacenar videos muy largos que se muestran como fondo de pantalla interactivo que se muestra cuando no hay alumnos próximos.
 (Recomendación que sean videos bastante largos).
 Como GITHUB tiene una limitación máxima para subir archivos de más de **25MB** deberá segmentarlo en varias partes, para ello exite una herramienta bastante práctica que se llama [BandiCut](https://www.bandicam.com/video-splitter/), el siguiente video de [YouTube](https://www.youtube.com/watch?v=PY7lDdOEclU) explica como usarla. (Recomendación < 5min cada segmento) (Es probable que si no has pagado la licencia de BandiCut aparezca al final una marca de agua molesta, no te preocupes si no deseas pagar el programa, puedes utilizar esta aplicación completamente gratuita para cortar este último segmento con marca de agua: [FineTune](https://apps.microsoft.com/detail/9ns6hdrpkc8c?ocid=pdpshare&hl=es-es&gl=ES)
-####### (Lo único malo es que deberás ir segmento por segmento de video eliminando los últimos 5 segundos, no hay otra solución lo siento. 😥)
+###### (Lo único malo es que deberás ir segmento por segmento de video eliminando los últimos 5 segundos, no hay otra solución lo siento. 😥)
 
 - **AJUSTES** (Solo modificar el archivo *"Configuracion.txt"*): En este directorio podrás configurar todo lo que se muestra dentro del mismo archivo, échale un vistazo, te recomendamos que dejes la configuración por defecto que se muestra, aqui puedes elegir, si se muestran los videos, imágenes, Posts, los videos largos, o si se puede o no jugar a los minijuegos del proyector, entre otros muchos ajustes.
 
