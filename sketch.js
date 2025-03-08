@@ -4193,16 +4193,20 @@ function cerrarIframe() {
 }
 
 // Detectar el primer clic
-function mouseReleased() {
+function mouseClicked() {
     if (started == false) {
       
       video.loop();
       VIDEOCreditos.loop();
       
+      if (VIDEOInicioProyector.time() > 0) {
+      
       ref = database.ref("Proyectores/InicioProyectores");
 
       ref.set(0);
 
-        started = true;
+      started = true;
+        
+      }
     }
 }
