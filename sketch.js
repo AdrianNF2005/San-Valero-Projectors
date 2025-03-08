@@ -4193,7 +4193,7 @@ function cerrarIframe() {
 }
 
 // Detectar el primer clic
-function mousePressed() {
+function mouseReleased() {
     if (started == false) {
       
       video.loop();
